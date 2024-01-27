@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "music-api.alone-hk.cn/:match*"
+      "destination": "https://music-api.alone-hk.cn/:match*"
     }
   ]
 }
