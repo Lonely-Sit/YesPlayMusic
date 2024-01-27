@@ -3,7 +3,7 @@ services:
     build:
       context: .
     image: yesplaymusic
-    container_name: YesPlayMusic
+    container_name: 独听者
     volumes:
       - /etc/localtime:/etc/localtime:ro
       - /etc/timezone:/etc/timezone:ro
