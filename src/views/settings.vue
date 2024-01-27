@@ -735,7 +735,7 @@
 
         <a
           v-if="!isElectron"
-          href="http://blog.alone-hk.cn"
+          href="https://vercel.com/?utm_source=ohmusic&utm_campaign=oss"
         >
           <img
             height="36"
